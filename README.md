@@ -1,4 +1,5 @@
  # a Tetris implementation in C 
+ 20190918
  ### 方块预览module:
  	* 游戏方块在4*4格子中预览，使用rand()函数可以产生1-19之间的游戏编号，并作为预览编号
  ### 方块控制module:
